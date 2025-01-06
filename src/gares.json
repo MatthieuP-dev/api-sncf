@@ -5,6 +5,9 @@
   "brest": {
     "Gare de Brest": "stop_area:SNCF:87474007"
   },
+  "Aachen": {
+    "Aachen": "stop_area:SNCF:80153452"
+  },
   "lille": {
     "Lille Flandres": "stop_area:SNCF:87286005",
     "Lille Europe": "stop_area:SNCF:87223263"
